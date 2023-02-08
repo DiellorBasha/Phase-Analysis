@@ -6,8 +6,6 @@ Phase-Analysis is a collection of MATLAB routines to help you analyze the phase 
 
 Screenshot
 
-![image](https://user-images.githubusercontent.com/49167439/212425374-bf55413e-343f-474b-ad57-ed21cdb3cfcd.png)
-
 
 ### Dependencies
 
